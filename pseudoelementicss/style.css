@@ -1,0 +1,4 @@
+.lista li:last-child{
+    content: "Fenomeno";
+    color: red;
+}
