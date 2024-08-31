@@ -1,0 +1,12 @@
+.column-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.column-container p {
+    flex: 1;
+    margin: 0 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}

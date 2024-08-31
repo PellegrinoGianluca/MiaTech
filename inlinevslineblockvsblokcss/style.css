@@ -1,0 +1,22 @@
+span {
+    border: 2px solid #000;
+    background-color: #f0f0f0;
+    height: 50px;
+    width: 100px;
+    display: inline;
+    text-align: center;
+    line-height: 50px;
+}
+
+.inline {
+    display: inline;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.block {
+    display: block;
+    margin-top: 10px;
+}

@@ -1,0 +1,9 @@
+.lista-inline {
+    list-style-type: none;
+    padding: 0;
+}
+
+.lista-inline li {
+    display: inline-block;
+    margin-right: 10px;
+}
