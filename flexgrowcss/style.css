@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+  }
+  
+  .flex-item {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    margin: 10px;
+  }
+  
+  .bigger {
+    width: 200px;
+  }
+  
