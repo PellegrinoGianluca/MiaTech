@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.full-screen {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: #3498db;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}

@@ -1,0 +1,20 @@
+body {
+    font-size: 6px;
+    margin: 0;
+    padding: 6px;
+    background-color: #f4f4f4;
+}
+
+.container {
+    text-align: center;
+}
+
+.rem {
+    font-size: 7rem; 
+    color: #ba9276;
+}
+
+.em {
+    font-size: 7em;
+    color: #20295a;
+}

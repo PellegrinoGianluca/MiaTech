@@ -1,0 +1,11 @@
+:root {
+    --padding-box: 20px;
+}
+
+.box {
+    background-color: #53635f;
+    color: white;
+    padding: var(--padding-box);
+    border-radius: 5px;
+    margin: 20px;
+}
