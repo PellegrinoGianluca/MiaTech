@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    align-items: flex-start; 
+    height: 200px;
+  }
+  
+  .flex-item {
+    flex-basis: 100px;
+    height: 100px;
+    background-color: rgb(30, 124, 155);
+    margin: 10px;
+  }
+  
+  .flex-item:first-child {
+    align-self: center;
+  }
+  
+  .flex-item:last-child {
+    align-self: flex-end;
+  }
+  

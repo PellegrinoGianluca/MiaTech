@@ -1,0 +1,21 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 10px;
+    padding: 20px;
+}
+
+.grid-item {
+    background-color: #eff1ef;
+    color: rgb(32, 30, 30);
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+    border-radius: 5px;
+}
+
+.row2 {
+    grid-row: 2;
+    height: 100px;
+}
